@@ -14,4 +14,4 @@ Totally random, but can be fun for few minutes.
 
 Made by
 -----
-Rodion rod6588@gmail.com
+Rodion Kryuchkov
